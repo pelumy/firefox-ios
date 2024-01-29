@@ -73,8 +73,11 @@
 /* Navigation title for search page in the Settings menu. */
 "Settings.Search.PageTitle.v121" = "Pesquisar";
 
+/* Label for toggle. Explains that in private browsing mode, the search suggestions which appears at the top of the search bar, can be toggled on or off. Located in the Private Session section in the Search page in the Settings menu. */
+"Settings.Search.PrivateSession.Setting.v122" = "Mostrar sugestões na navegação privada";
+
 /* Title for the `Private Session` settings section in the Search page in the Settings menu. */
-"Settings.Search.PrivateSession.Title.v121" = "Sessão Privada";
+"Settings.Search.PrivateSession.Title.v122" = "Navegação privada";
 
 /* Title for quick-search engines settings section in the Search page in the Settings menu. */
 "Settings.Search.QuickEnginesTitle.v121" = "Motores de pesquisa rápida";
